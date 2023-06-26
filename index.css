@@ -138,5 +138,10 @@ div.desc {
   @media only screen and (max-width: 768px) {
     .myAudio {width:100%}
     table {width:100%}
-    font-family: 'Roboto', sans-serif; 
+    header {font-family: 'Roboto', sans-serif;}
+    nav li a, .dropbtn {font-family: 'Roboto', sans-serif;}
+    .dropdown-content a {font-family: 'Roboto', sans-serif;}
+    h1 {font-family: 'Roboto', sans-serif;}
+    h2 {font-family: 'Roboto', sans-serif;}
+    h3 {font-family: 'Roboto', sans-serif;} 
   }
