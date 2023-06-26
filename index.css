@@ -138,4 +138,5 @@ div.desc {
   @media only screen and (max-width: 768px) {
     .myAudio {width:100%}
     table {width:100%}
+    font-family: 'Roboto', sans-serif; 
   }
